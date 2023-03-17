@@ -45,10 +45,8 @@ and q2 projects.
 
 
 1. Unzip cecs326-a2.zip
-2. 
-
-$ javac DiningPhilosophers.java DiningServer.java DiningServerImpl.java Philosopher.java
-$ java DiningPhilosophers
+2. $ javac DiningPhilosophers.java DiningServer.java DiningServerImpl.java Philosopher.java
+3. $ java DiningPhilosophers
 
 
 ## Requirements
