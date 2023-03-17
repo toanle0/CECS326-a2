@@ -11,7 +11,7 @@ Engineering</h3>
     <br> Dr. Xu
     <br> Group Project 2 - Synchronization 
     <br>
-    Toan Le 017380673
+    Toan Le
     <br>
     <a href="https://github.com/toanle0/CECS326-a2/issues/new?template=bug.md">Report bug</a>
     ·
