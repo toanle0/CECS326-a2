@@ -36,8 +36,7 @@ solution to the dining-philosophers problem using monitors
 
 As long as the necessary dependencies
 are satisfied, then the following
-commands will successfully initiate q1
-and q2 projects.
+commands will successfully initiate the project.
 
 ##Requirements
 *Access to a terminal window
@@ -50,7 +49,7 @@ and q2 projects.
 
 
 ## Requirements
-- 2x Terminal/Command Line windows side-by-side
+- Terminal/Command Line window
 - javac command installed
 - java command installed
 
