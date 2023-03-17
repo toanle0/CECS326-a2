@@ -8,7 +8,7 @@ Engineering</h3>
 - 
   <p align="center">
     CSULB CECS 326 - Operating Systems - Spring 2023 
-    <br> Dr. Hailu Xu
+    <br> Dr. Xu
     <br> Group Project 2 - Synchronization 
     <br>
     Toan Le 017380673
